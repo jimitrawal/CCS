@@ -1,0 +1,28 @@
+
+.con:hover {
+  background-color: #e7e7e8;
+}
+// Define variables for colors, sizes, etc. if needed
+$navbar-bg-color: #343a40; // Example: Bootstrap dark background color
+$navbar-text-color: #fff; // Example: white
+
+li a {
+  text-decoration: none;
+}
+
+#footer_logo {
+  width: 200px;
+  height: 247px;
+}
+
+#navbarResponsive {
+  margin-left: 200px;
+}
+
+.renovation-services-bg{
+  background-size: cover;
+  opacity: 10;
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: 20px;
+}
